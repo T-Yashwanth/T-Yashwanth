@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   </a>
   
-  <a href="https://ai.google/discover/generativeai/" target="_blank" rel="noopener noreferrer">
+  <a href="https://ai.google/discover/generativeai/">
   <img src="https://img.shields.io/badge/Generative%20AI-0078D7?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI">
 </a>
 
