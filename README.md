@@ -1,6 +1,29 @@
-## Hi there 👋
-<p align="center"><img width="80%" alt="Hello, I'm Yashwanth. I am a Machine Learning Engineer" src="./assets/gh-readme-header.png" /></a></p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+there+I'm+Yashwanth)](https://git.io/typing-svg)
+<div align="Right">
+  <img src="https://komarev.com/ghpvc/?username=T-Yashwanth&style=flat-square" alt="Profile views">
+</div>
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+,+there+I'm+Yashwanth" alt="Typing SVG">
+  </a>
+</div>
+
+
+# Skills
+<div >
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  </a>
+  <a href="https://example.com/generative-ai" target="_blank">
+    <img src="https://img.shields.io/badge/Generative%20AI-0078D7?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI">
+  </a>
+</div>
+
+
+# Certificates
+
+
 <!--
 **T-Yashwanth/T-Yashwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 ![T-Yashwanth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Yashwanth&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
