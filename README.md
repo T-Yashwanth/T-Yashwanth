@@ -12,12 +12,14 @@
 
 # Skills
 <div >
-  <a href="https://keras.io/" target="_blank">
+  <a href="https://keras.io/" >
     <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   </a>
-  <a href="https://example.com/generative-ai" target="_blank">
+  
+  <a href="[https://example.com/generative-ai](https://ai.google/discover/generativeai/)">
     <img src="https://img.shields.io/badge/Generative%20AI-0078D7?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI">
   </a>
+  
 </div>
 
 
