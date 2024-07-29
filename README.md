@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=T-Yashwanth&abbreviated=true)
+<p align="center"><img width="80%" alt="Hello, I'm Yashwanth. I am a Machine Learning Engineer" src="./assets/gh-readme-header.png" /></a></p>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+there+I'm+Yashwanth)](https://git.io/typing-svg)
 <!--
 **T-Yashwanth/T-Yashwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
