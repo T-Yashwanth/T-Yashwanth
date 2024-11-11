@@ -9,7 +9,7 @@
   </a>
 </div>
 
-
+<!--
 # Skills
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
@@ -44,27 +44,30 @@
 
 # Certificates
 
-👋 Hi there, I'm Varun Totakura
-I'm a passionate AI Engineer with over four years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from Florida State University.
+-->
+👋 Hi there, I'm Yashwanth T
+I'm a passionate AI Engineer with over 6 years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from  State University of New York at Albany.
 
 🔧 Skills & Expertise
-Programming Languages: Python, JavaScript
+Programming Languages: Python, JavaScript, HTML, CSS, C, C++
 Machine Learning & AI: PyTorch, TensorFlow, Scikit-learn, LangChain, and more
-Cloud Platforms: Google Cloud Platform (GCP), Microsoft Azure
-ServiceNow: Development, Administration, ITSM, Performance Analytics
+Cloud Platforms: AWS, Google Cloud Platform (GCP), Microsoft Azure
 Integrations: REST, SOAP, Email, API development
+
 🌱 What I'm Working On
 Open Source: Contributing to various AI/ML projects.
-Algorithm Development: Creating optimized algorithms for Active Learning and AI-driven solutions.
 Continuous Learning: Currently diving deeper into Natural Language Processing (NLP) and Large Language Models (LLMs).
+
 🚀 What I Bring to the Table
 A strong ability to develop and deploy machine learning models.
 Expertise in integrating complex systems using RESTful APIs and other integration methods.
 A proven track record of leading projects to success, from ideation to deployment.
+
 🎯 Interests
 I'm passionate about AI, ML, and Data Science, and I’m always on the lookout for innovative projects and collaborations.
 I’m particularly interested in exploring the ethical implications of AI and working on projects that can make a positive impact on society.
 💬 Check my Profile
+![Profile](https://t-yashwanth.github.io/yashwanth.github.io/)
 <!--
 **T-Yashwanth/T-Yashwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,6 +81,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
   
 ![T-Yashwanth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Yashwanth&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+-->
