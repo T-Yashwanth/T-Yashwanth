@@ -45,29 +45,37 @@
 # Certificates
 
 -->
-👋 Hi there, I'm Yashwanth T //
-I'm a passionate AI Engineer with over 6 years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from  State University of New York at Albany.
+### 👋 Hi there, I'm Yashwanth Telukuntla
 
-🔧 Skills & Expertise
-Programming Languages: Python, JavaScript, HTML, CSS, C, C++
-Machine Learning & AI: PyTorch, TensorFlow, Scikit-learn, LangChain, and more
-Cloud Platforms: AWS, Google Cloud Platform (GCP), Microsoft Azure
-Integrations: REST, SOAP, Email, API development
+I'm a passionate AI Engineer with over 6 years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from the State University of New York at Albany.
 
-🌱 What I'm Working On
-Open Source: Contributing to various AI/ML projects.
-Continuous Learning: Currently diving deeper into Natural Language Processing (NLP) and Large Language Models (LLMs).
+### 🔧 Skills & Expertise
+- **Programming Languages**: Python, JavaScript, C, C++
+- **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, LangChain, and more
+- **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Microsoft Azure
+- **Integrations**: REST, SOAP, Email, API development
 
-🚀 What I Bring to the Table
-A strong ability to develop and deploy machine learning models.
-Expertise in integrating complex systems using RESTful APIs and other integration methods.
-A proven track record of leading projects to success, from ideation to deployment.
+### 🌱 What I'm Working On
+- **Open Source**: Contributing to various AI/ML projects.
+- **Continuous Learning**: Currently diving deeper into Natural Language Processing (NLP) and Large Language Models (LLMs).
 
-🎯 Interests
-I'm passionate about AI, ML, and Data Science, and I’m always on the lookout for innovative projects and collaborations.
-I’m particularly interested in exploring the ethical implications of AI and working on projects that can make a positive impact on society.
-💬 Check my Profile
-![Profile](https://t-yashwanth.github.io/yashwanth.github.io/)
+### 🚀 What I Bring to the Table
+- A strong ability to develop and deploy machine learning models.
+- Expertise in integrating complex systems using RESTful APIs and other integration methods.
+- A proven track record of leading projects to success, from ideation to deployment.
+
+### 🎯 Interests
+- I'm passionate about AI, ML, and Data Science, and I’m always on the lookout for innovative projects and collaborations.
+- I’m particularly interested in exploring the ethical implications of AI and working on projects that can make a positive impact on society.
+
+### 💬 Check my Profile
+- [Portfolio]([https://t-yashwanth.github.io/yashwanth.github.io/])
+
+### 📫 Let's Connect!
+- [LinkedIn](www.linkedin.com/in/yashwanth-t-4a70098jbjjhgb)
+- [Email](mailto:yashwanth.t808@gmail.com)
+
+Feel free to explore my repositories, contribute to ongoing projects, or reach out to discuss anything tech-related!
 <!--
 **T-Yashwanth/T-Yashwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
