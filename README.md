@@ -45,7 +45,7 @@
 # Certificates
 
 -->
-👋 Hi there, I'm Yashwanth T
+👋 Hi there, I'm Yashwanth T //
 I'm a passionate AI Engineer with over 6 years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from  State University of New York at Albany.
 
 🔧 Skills & Expertise
