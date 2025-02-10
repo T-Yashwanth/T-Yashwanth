@@ -68,10 +68,10 @@ I'm a passionate AI Engineer with over 5 years of experience in Software, Machin
 ### 🎯 Interests
 - I'm passionate about AI, ML, and Data Science, and I’m always on the lookout for innovative projects and collaborations.
 - I’m particularly interested in exploring the ethical implications of AI and working on projects that can make a positive impact on society.
-
+<!--
 ### 💬 Check my Profile
 - [Portfolio](https://t-yashwanth.github.io/yashwanth.github.io)
-
+-->
 ### 📫 Let's Connect!
 - [LinkedIn](www.linkedin.com/in/yashwanth-t-4a70098jbjjhgb)
 - [Email](mailto:yashwanth.t808@gmail.com)
