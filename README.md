@@ -48,7 +48,7 @@
 ### 👋 Hi there, I'm Yashwanth Telukuntla
 -->
 
-I'm a passionate AI Engineer with over 6 years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from the State University of New York at Albany.
+I'm a passionate AI Engineer with over 5 years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from the State University of New York at Albany.
 
 ### 🔧 Skills & Expertise
 - **Programming Languages**: Python, JavaScript, C, C++
